@@ -17,7 +17,7 @@ You can select, add, and restore resources:
    ![Add Resource](media/rt_model_add_resource.png)  
    2. In the Add Resource window, select the type of resource to be added, edit its information, and click **OK**.  
    ![Add Resource](media/rt_model_add_resource_window.png)  
-   The new resource appears in the list in the **Resource/Property** section of the Model Manager main view.  
+   The new resource appears in the list at the **Resource/Property** section of the Model Manager main view.  
 - To restore the resources, click **Restore default**. This restores the initial resource state of the device, deleting all changes that have been made.  
 ![The imported device shows up](media/rt_model_import_model_finished.png)  
 
